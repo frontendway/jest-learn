@@ -1,0 +1,2 @@
+{"D:\\self\\jest-learn\\src\\math.js": {"path":"D:\\self\\jest-learn\\src\\math.js","statementMap":{"0":{"start":{"line":1,"column":19},"end":{"line":3,"column":1}},"1":{"start":{"line":2,"column":2},"end":{"line":2,"column":14}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":19},"end":{"line":1,"column":20}},"loc":{"start":{"line":1,"column":29},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"43e27e138ebf9cfc5966b082cf9a028302ed4184","hash":"d4ef4d81e269588efe97b49e1d25f6e2fafe77b3"}
+}
