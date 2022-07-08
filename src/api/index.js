@@ -8,3 +8,7 @@ export const fetchData1 = (cb) => {
 export const fetchData2 = () => {
   return axios.get('https://www.fastmock.site/mock/31450493ed987ee4de2e058fe4a35578/api/user-data')
 }
+
+export const fetchData3 = () => {
+  return axios.get('https://www.fastmock.site/mock/31450493ed987ee4de2e058fe4a35578/api/404')
+}
